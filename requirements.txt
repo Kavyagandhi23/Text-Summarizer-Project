@@ -1,0 +1,21 @@
+transformers # Use to work with pre-trained models
+transformers[sentencepiece] # Use to break sentence and words into smaller parts
+pandas
+nltk # Use for various NLP tasks
+matplotlib
+notebook # Associated with Jupyter Noebook tasks
+datasets #  Part of Hugging Face. Download, process and use NLP datasets
+sacrebleu # Python Library. Evaluate machine translation system using BLUE metric.
+rouge_score # Evaluate the quality of text summary
+py7zr # Python library for working with 7z compressed files
+tqdm
+PyYAML # Use for reading-writing YAML files
+torch # PyTorch, popular open-spurce deep learning framework
+boto3 # AWS SDK for python. Interacts with AWS services.
+mypy-boto3-s3 # Plugin for MyPy type checker to provide type hints or interacting with AWS S3 using Boto3
+python-box==6.0.2
+ensure==1.0.2
+fastapi==0.78.0 # web framework for building API
+uvicorn==0.18.3 # ASGI(Asynchronous Server Gateway Interface) for running Web application using fastapi
+Jinja2==3.1.2 # template use to generate dynamic HTML and other text-based formats
+-e. # to install setup.py 
